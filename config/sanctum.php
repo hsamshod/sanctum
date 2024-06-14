@@ -50,7 +50,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | CSRF Token Route Prefix
+    | CSRF Cookie Route Prefix
     |--------------------------------------------------------------------------
     |
     | Here you may specify which prefix Sanctum will assign to the CSRF cookie route
